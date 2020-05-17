@@ -10,7 +10,7 @@
   * [Feature Extrction](#feature-extraction)
   * [Description](#description)
 * [Exploration](#exploration)
-* [Modeling] (#modeling)
+* [Modeling](#modeling)
 * [Conclusion](#conclusion)
 * [Future Directions](#future-directions)
 
